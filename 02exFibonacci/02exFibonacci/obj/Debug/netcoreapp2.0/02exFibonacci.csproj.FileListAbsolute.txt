@@ -1,0 +1,11 @@
+C:\Users\Tim\Documents\WebApps3\02exFibonacci\02exFibonacci\bin\Debug\netcoreapp2.0\02exFibonacci.deps.json
+C:\Users\Tim\Documents\WebApps3\02exFibonacci\02exFibonacci\bin\Debug\netcoreapp2.0\02exFibonacci.runtimeconfig.json
+C:\Users\Tim\Documents\WebApps3\02exFibonacci\02exFibonacci\bin\Debug\netcoreapp2.0\02exFibonacci.runtimeconfig.dev.json
+C:\Users\Tim\Documents\WebApps3\02exFibonacci\02exFibonacci\bin\Debug\netcoreapp2.0\02exFibonacci.dll
+C:\Users\Tim\Documents\WebApps3\02exFibonacci\02exFibonacci\bin\Debug\netcoreapp2.0\02exFibonacci.pdb
+C:\Users\Tim\Documents\WebApps3\02exFibonacci\02exFibonacci\obj\Debug\netcoreapp2.0\02exFibonacci.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Documents\WebApps3\02exFibonacci\02exFibonacci\obj\Debug\netcoreapp2.0\02exFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Documents\WebApps3\02exFibonacci\02exFibonacci\obj\Debug\netcoreapp2.0\02exFibonacci.AssemblyInfoInputs.cache
+C:\Users\Tim\Documents\WebApps3\02exFibonacci\02exFibonacci\obj\Debug\netcoreapp2.0\02exFibonacci.AssemblyInfo.cs
+C:\Users\Tim\Documents\WebApps3\02exFibonacci\02exFibonacci\obj\Debug\netcoreapp2.0\02exFibonacci.dll
+C:\Users\Tim\Documents\WebApps3\02exFibonacci\02exFibonacci\obj\Debug\netcoreapp2.0\02exFibonacci.pdb
